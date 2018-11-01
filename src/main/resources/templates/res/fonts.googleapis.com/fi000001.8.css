@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts.gstatic.com/s/lato/v14/S6uyw4BMUTPHjx4wWg.eot")/*tpa=https://fonts.gstatic.com/s/lato/v14/S6uyw4BMUTPHjx4wWg.eot*/;
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVZ0f.eot")/*tpa=https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVZ0f.eot*/;
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts.gstatic.com/s/oswald/v16/TK3iWkUHHAIjg752GT8C.eot")/*tpa=https://fonts.gstatic.com/s/oswald/v16/TK3iWkUHHAIjg752GT8C.eot*/;
+}
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts.gstatic.com/s/robotocondensed/v16/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7CQ.eot")/*tpa=https://fonts.gstatic.com/s/robotocondensed/v16/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7CQ.eot*/;
+}
+@font-face {
+  font-family: 'Sanchez';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts.gstatic.com/s/sanchez/v5/Ycm2sZJORluHnXbIfmlR-Q.eot")/*tpa=https://fonts.gstatic.com/s/sanchez/v5/Ycm2sZJORluHnXbIfmlR-Q.eot*/;
+}
