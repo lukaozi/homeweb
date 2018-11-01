@@ -17,4 +17,9 @@ public class HelloController {
         return "index";
     }
 
+    @RequestMapping("/us")
+    public String us(Model model) {
+        return "get-a-quote";
+    }
+
 }
